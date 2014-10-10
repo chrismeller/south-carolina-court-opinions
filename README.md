@@ -19,7 +19,9 @@ Opinions have been published in PDF form since June, 2012. Any orders and opinio
 
 How is it Organized?
 ====================
-Four files. Published and Unpublished for both courts. For each opinion you'll have the following fields:
+A file for each month, grouped into directories for each court and whether they are published or unpublished opinions.
+
+For each opinion you'll have the following fields:
 
 * id: A numeric incrementing number for opinions, and simply "ORDER" for orders.
 * title: The short title of the opinion or order.
