@@ -13,7 +13,7 @@ This includes:
 	
 Where's it From?
 ================
-All of the data is directly from the [South Carolina Judicial Department](http://www.judicial.state.sc.us/) website.
+All of the data is scraped directly from the [South Carolina Judicial Department](http://www.judicial.state.sc.us/) website. It also powers [@SCCourtOpinions](http://twitter.com/SCCourtOpinions).
 
 Opinions have been published in PDF form since June, 2012. Any orders and opinions originally available as PDFs have been automatically processed to extract their text. Many formatting and layout errors are present, so you should be sure to verify anything you intend to use against the original source.
 
